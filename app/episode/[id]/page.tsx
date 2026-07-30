@@ -14,7 +14,7 @@ const EPISODE_DETAILS: Record<string, any> = {
     "Somewhere along the way, we bought cups of juice and ended up sitting by that ridiculously addictive fountain. We spent who-knows-how-long just staring at the water, talking about random things, laughing at nothing, and enjoying the comfortable silence in between. Looking back... remember that fountain? Hahaha. It wasn't the fountain that made it special—it was who I was with.",
     "That first glance wasn't just a coincidence. It quietly became the beginning of our story. Neither of us said it out loud, but maybe, from that very day, our hearts had already made the decision before we ever did."
   ],
-    inlineImage: "/img/our_first_date/content/airmancur.jpeg"
+    inlineImage: "/img/the_first_glance/content/airmancur.jpeg"
   },
   "2": {
     title: "Our Second Date",
