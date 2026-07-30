@@ -24,12 +24,12 @@ const PROFILES = [
 
 const EPISODES = [
   {
-    title: "The First Glance",
-    date: "Chapter 1",
-    description: "It all started on a day like any other. Little did we know, our lives were about to change forever when our paths finally crossed.",
-    duration: "1h 45m",
-    image: "/img/the_first_glance/thumbnail/thefirstglancethumb.jpeg",
-  },
+  title: "The First Glance",
+  date: "Chapter 1",
+  description: "What started with a few messages on social media became the first chapter of a story worth telling.",
+  duration: "1h 45m",
+  image: "/img/the_first_glance/thumbnail/thefirstglancethumb.jpeg",
+},
   {
     title: "Our Second Date",
     date: "Chapter 2",

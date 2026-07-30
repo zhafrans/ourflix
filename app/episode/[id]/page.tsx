@@ -5,17 +5,17 @@ import Link from 'next/link';
 // Dummy blog data
 const EPISODE_DETAILS: Record<string, any> = {
   "1": {
-    title: "The First Glance",
-    image: "/img/the_first_glance/thumbnail/thefirstglancethumb.jpeg",
-    content: [
-    "It started as an ordinary day, or at least that's what we thought. The city was busy, people were everywhere, and neither of us expected that one simple glance would quietly change everything. When our eyes met for the first time, it felt like time slowed down, even if only for a second.",
-    "We were both pretending to be normal, but deep down, we couldn't stop noticing each other. Maybe it was just curiosity... or maybe we already knew there was something special waiting to happen. Of course, our pride wouldn't let us admit it back then.",
-    "Later that day, we grabbed a bowl of bakso near DP Mall. It wasn't anything fancy, but somehow it became one of those moments that would stay in our memories forever. After finishing our meal, we decided, 'Why not take a walk around DP Mall?' So we wandered around with no real destination, just enjoying each other's company.",
-    "Somewhere along the way, we bought cups of juice and ended up sitting by that ridiculously addictive fountain. We spent who-knows-how-long just staring at the water, talking about random things, laughing at nothing, and enjoying the comfortable silence in between. Looking back... remember that fountain? Hahaha. It wasn't the fountain that made it special—it was who I was with.",
-    "That first glance wasn't just a coincidence. It quietly became the beginning of our story. Neither of us said it out loud, but maybe, from that very day, our hearts had already made the decision before we ever did."
+  title: "The First Glance",
+  image: "/img/the_first_glance/thumbnail/thefirstglancethumb.jpeg",
+  content: [
+    "Like many stories these days, ours began on social media. What started as a few conversations slowly turned into something we both looked forward to every day. Before we knew it, we had made a plan to finally meet in person.",
+    "I still remember picking you up at your house in Semarang Indah. My heart was racing the entire way there. I kept wondering what our first meeting would be like, hoping everything would feel as natural in real life as it did through our chats. The moment I saw you, all those nervous thoughts disappeared. It was exciting, a little awkward, and somehow incredibly comforting at the same time.",
+    "Our first stop was a bowl of bakso near DP Mall. Nothing fancy, just good food and even better company. Afterward, we decided to wander around the mall without any real plans, simply enjoying each other's presence and letting the day unfold naturally.",
+    "Later, we grabbed some juice and found ourselves sitting by that ridiculously addictive fountain. We spent who-knows-how-long watching the water, talking about random things, laughing over the smallest moments, and enjoying the peaceful silence between conversations. Looking back... remember that fountain? 😂 It wasn't the fountain that made the moment unforgettable—it was the person sitting beside me.",
+    "That day wasn't just our first meeting. It became the first page of a story that neither of us knew we were about to write together."
   ],
-    inlineImage: "/img/the_first_glance/content/airmancur.jpeg"
-  },
+  inlineImage: "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=800&q=80"
+},
   "2": {
     title: "Our Second Date",
     image: "/img/our_second_date/thumbnail/ourseconddatethumb.jpeg",
