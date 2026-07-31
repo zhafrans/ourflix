@@ -223,9 +223,11 @@ function NetflixLoveStoryContent() {
                   >
                     <Play className="w-6 h-6 md:w-8 md:h-8 fill-black" /> Play
                   </button>
-                  <button className="bg-gray-500/60 text-white px-6 py-2 md:px-8 md:py-3 rounded flex items-center gap-2 font-bold hover:bg-gray-500/80 transition backdrop-blur-sm shadow-lg">
-                    <Info className="w-6 h-6 md:w-8 md:h-8" /> More Info
-                  </button>
+                  <Link href="/menu">
+                    <button className="bg-gray-500/60 text-white px-6 py-2 md:px-8 md:py-3 rounded flex items-center gap-2 font-bold hover:bg-gray-500/80 transition backdrop-blur-sm shadow-lg">
+                      <Info className="w-6 h-6 md:w-8 md:h-8" /> More Fun
+                    </button>
+                  </Link>
                 </div>
               </motion.div>
             </div>
